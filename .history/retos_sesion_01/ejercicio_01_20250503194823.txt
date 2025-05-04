@@ -1,1 +1,0 @@
-Hola a todos, estoy muy emocionada por formar parte de este Study Group y aprender Python, tuve problemas con mia archivo de la sesion 1, en la segunda sesion cometi algunos errores y le di no guardar para que mi archivo se mantuviera, pero al volver a intentar abrirlo quedo todo en blanco y no pude recuperar nada, asi que estoy haciendo de nuevo mis ejercicios.
